@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** with expertise in developing innovative solutions across various domains. Currently focused on building intelligent systems that solve real-world problems through the power of data and AI.
+I'm a passionate to become a **Data Scientist** and **Machine Learning Engineer** with expertise in developing innovative solutions across various domains. Currently focused on building intelligent systems that solve real-world problems through the power of data and AI.
 
 ## 🏆 Career Highlights
 
