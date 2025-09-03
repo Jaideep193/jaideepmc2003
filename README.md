@@ -16,6 +16,12 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -32,7 +38,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 Featured Projects
-
 | Project | Description | Technologies | Status |
 |---------|-------------|-------------|--------|
 | [🔥 Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection) | Advanced computer vision system for early fire detection | Python, OpenCV, TensorFlow | ✅ Complete |
@@ -42,9 +47,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 | [🌍 Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI) | Comprehensive air quality index analysis and visualization | Python, Pandas, Seaborn | ✅ Complete |
 
 ## 📈 GitHub Stats
-
 ![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
@@ -55,13 +58,11 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 - 🚀 MLOps and model deployment
 
 ## 📫 Connect With Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepmc2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideepmc2003)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)
 
 ---
-
 ⭐ **"Turning data into insights, and insights into impact."** ⭐
 
 *Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions about data science, machine learning, or any exciting tech projects!*
