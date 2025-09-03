@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jaideep
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Computer+Vision+Enthusiast;Problem+Solver+%7C+Innovation+Driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Computer+Vision+Enthusiast; Problem+Solver+%7C+Innovation+Driven" alt="Typing SVG" />
 </div>
 
 ## 🇮🇳 Namaste from India! 
@@ -16,12 +16,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** on a missi
 
 ### 🚀 Featured Project
 🔥 **[Forest Fire Detection System](https://github.com/Jaideep193/ForestFireDetection)** - Advanced computer vision solution for early fire detection using deep learning
-
-### 📄 Resume
-📋 *[Download My Resume](placeholder-resume-link)* - Complete overview of my experience and skills
-
-### 📺 YouTube Channel
-🎥 *[Tech Insights with Jaideep](placeholder-youtube-link)* - Sharing knowledge about Data Science and AI
 
 ### 💬 Ask me about
 - Machine Learning & Deep Learning
