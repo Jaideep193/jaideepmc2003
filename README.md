@@ -14,10 +14,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** on a missi
 - Big Data technologies and cloud platforms
 - Computer Vision and Neural Networks
 
-### 🚀 Featured Project
-
-🔥 [Forest Fire Detection System](https://github.com/Jaideep193/ForestFireDetection) - Advanced computer vision solution for early fire detection using deep learning
-
 ### 💬 Ask me about
 - Machine Learning & Deep Learning
 - Computer Vision & Image Processing
