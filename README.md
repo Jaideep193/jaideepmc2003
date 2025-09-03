@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Jaideep
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Computer+Vision+Enthusiast;_Problem+Solver+%7C+Innovation+Driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Computer+Vision+Enthusiast;Problem+Solver+%7C+Innovation+Driven" alt="Typing SVG" />
 </div>
 
-## 🇮🇳 Namaste from India! 
+## 🇮🇳 Namaste from India!
 
 I'm a passionate **Data Scientist** and **Machine Learning Engineer** on a mission to transform data into actionable insights and build intelligent systems that make a real-world impact. Currently diving deep into advanced AI/ML technologies and exploring the fascinating world of computer vision.
 
@@ -15,29 +15,28 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** on a missi
 - Computer Vision and Neural Networks
 
 ### 🚀 Featured Project
-🔥 **[Forest Fire Detection System](https://github.com/Jaideep193/ForestFireDetection)** - Advanced computer vision solution for early fire detection using deep learning
+
+🔥 [Forest Fire Detection System](https://github.com/Jaideep193/ForestFireDetection) - Advanced computer vision solution for early fire detection using deep learning
 
 ### 💬 Ask me about
 - Machine Learning & Deep Learning
-- Computer Vision & Image Processing  
+- Computer Vision & Image Processing
 - Data Analysis & Visualization
 - Python Programming & AI Development
 - Forest Fire Detection Systems
 
-
----
-
 # Hello, I'm Jaideep! 👋
 
 ## 🚀 About Me
-I'm a passionate to become a **Data Scientist** and **Machine Learning Engineer** with expertise in developing innovative solutions across various domains. Currently focused on building intelligent systems that solve real-world problems through the power of data and AI.
+
+I'm a passionate to become a Data Scientist and Machine Learning Engineer with expertise in developing innovative solutions across various domains. Currently focused on building intelligent systems that solve real-world problems through the power of data and AI.
 
 ## 🏆 Career Highlights
-- 🔥 **Fire Safety Innovation**: Developed forest fire detection system using advanced computer vision
-- 👤 **Smart Attendance Solutions**: Created facial recognition-based attendance management system
-- 🏠 **Predictive Modeling**: Built accurate house price prediction models using linear regression
-- 🌱 **Customer Segmentation**: Implemented K-means clustering for data-driven customer insights
-- 🌍 **Environmental Analysis**: Conducted comprehensive Delhi AQI analysis for air quality monitoring
+- 🔥 Fire Safety Innovation: Developed forest fire detection system using advanced computer vision
+- 👤 Smart Attendance Solutions: Created facial recognition-based attendance management system
+- 🏠 Predictive Modeling: Built accurate house price prediction models using linear regression
+- 🌱 Customer Segmentation: Implemented K-means clustering for data-driven customer insights
+- 🌍 Environmental Analysis: Conducted comprehensive Delhi AQI analysis for air quality monitoring
 
 ## 🛠️ Technologies & Tools
 
@@ -45,23 +44,23 @@ I'm a passionate to become a **Data Scientist** and **Machine Learning Engineer*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Development Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -89,7 +88,6 @@ I'm a passionate to become a **Data Scientist** and **Machine Learning Engineer*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
-
 - 🤖 Advanced Machine Learning algorithms
 - 🧠 Deep Learning for Computer Vision
 - 📊 Big Data Analytics
@@ -99,7 +97,7 @@ I'm a passionate to become a **Data Scientist** and **Machine Learning Engineer*
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepmc2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jaideepmc2003](https://www.linkedin.com/in/jaideep-m-c-2290702a0/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideepmc2003)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)
 
 ⭐ "Turning data into insights, and insights into impact." ⭐
