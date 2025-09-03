@@ -1,9 +1,11 @@
 # Hello, I'm Jaideep! 👋
 
 ## 🚀 About Me
+
 I'm a passionate **Data Scientist** and **Machine Learning Engineer** with expertise in developing innovative solutions across various domains. Currently focused on building intelligent systems that solve real-world problems through the power of data and AI.
 
 ## 🏆 Career Highlights
+
 - 🔥 **Fire Safety Innovation**: Developed forest fire detection system using advanced computer vision
 - 👤 **Smart Attendance Solutions**: Created facial recognition-based attendance management system
 - 🏠 **Predictive Modeling**: Built accurate house price prediction models using linear regression
@@ -13,6 +15,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,6 +27,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Machine Learning & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -32,12 +36,20 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Development Tools
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Other Tools
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ## 📊 Featured Projects
+
 | Project | Description | Technologies | Status |
 |---------|-------------|-------------|--------|
 | [🔥 Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection) | Advanced computer vision system for early fire detection | Python, OpenCV, TensorFlow | ✅ Complete |
@@ -47,10 +59,12 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 | [🌍 Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI) | Comprehensive air quality index analysis and visualization | Python, Pandas, Seaborn | ✅ Complete |
 
 ## 📈 GitHub Stats
+
 ![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
+
 - 🤖 Advanced Machine Learning algorithms
 - 🧠 Deep Learning for Computer Vision
 - 📊 Big Data Analytics
@@ -58,11 +72,13 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 - 🚀 MLOps and model deployment
 
 ## 📫 Connect With Me
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepmc2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideepmc2003)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)
 
 ---
+
 ⭐ **"Turning data into insights, and insights into impact."** ⭐
 
 *Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions about data science, machine learning, or any exciting tech projects!*
