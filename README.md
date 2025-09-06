@@ -1,101 +1,187 @@
-# Hi there! 👋 I'm Jaideep
-
+<!-- GitHub Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Computer+Vision+Enthusiast;_Problem+Solver+%7C+Innovation+Driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jaideep+👋;Power+BI+Developer+📊;Machine+Learning+Engineer+🤖;Data+Science+Enthusiast+📈" alt="Typing SVG" />
 </div>
 
-## 🇮🇳 Namaste from India!
+<div align="center">
+  <img src="https://github.com/Jaideep193/jaideepmc2003/assets/animation.gif" width="400" height="200" alt="Data Animation">
+</div>
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** on a mission to transform data into actionable insights and build intelligent systems that make a real-world impact. Currently diving deep into advanced AI/ML technologies and exploring the fascinating world of computer vision.
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Power BI Developer & ML Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-### 🌱 Currently Learning
-- Advanced Deep Learning architectures
-- MLOps and model deployment strategies  
-- Big Data technologies and cloud platforms
-- Computer Vision and Neural Networks
+<!-- Animated About Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🇮🇳+Transforming+Data+into+Actionable+Insights;📊+Expert+in+Power+BI+Dashboard+Development;🤖+Building+Intelligent+ML+Solutions;🔥+Computer+Vision+%26+AI+Innovation" alt="About Typing SVG" />
+</div>
 
-### 💬 Ask me about
-- Machine Learning & Deep Learning
-- Computer Vision & Image Processing
-- Data Analysis & Visualization
-- Python Programming & AI Development
-- Forest Fire Detection Systems
+---
 
-# Hello, I'm Jaideep! 👋
+## 🚀 Professional Summary
 
-## 🚀 About Me
+<div align="left">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
+  🎯 **Mission**: Passionate Data Scientist & Machine Learning Engineer specializing in **Power BI development** and advanced AI solutions
+  
+  💼 **Focus Areas**:
+  - 📊 **Power BI Dashboard Development**
+  - 🤖 **Machine Learning Model Implementation**
+  - 🔍 **Computer Vision Applications**
+  - 📈 **Data Analytics & Visualization**
+  - ☁️ **Cloud-based AI Solutions**
+  
+  🌟 **Current Learning**:
+  - Advanced Power BI Features & DAX
+  - MLOps and Model Deployment
+  - Deep Learning Architectures
+  - Big Data Technologies
+</div>
 
-I'm a passionate to become a Data Scientist and Machine Learning Engineer with expertise in developing innovative solutions across various domains. Currently focused on building intelligent systems that solve real-world problems through the power of data and AI.
+---
 
-## 🏆 Career Highlights
-- 🔥 Fire Safety Innovation: Developed forest fire detection system using advanced computer vision
-- 👤 Smart Attendance Solutions: Created facial recognition-based attendance management system
-- 🏠 Predictive Modeling: Built accurate house price prediction models using linear regression
-- 🌱 Customer Segmentation: Implemented K-means clustering for data-driven customer insights
-- 🌍 Environmental Analysis: Conducted comprehensive Delhi AQI analysis for air quality monitoring
+## 💼 Core Technologies
 
-## 🛠️ Technologies & Tools
+### 📊 Business Intelligence & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" />
+</p>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+</p>
 
-### Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+### 📈 Data Science Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
 
-### Development Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### ☁️ Cloud & Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-### Other Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-## 📊 Featured Projects
+## 🏆 Featured Projects
 
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|--------|
-| [🔥 Forest Fire Detection](https://github.com/Jaideep193/ForestFireDetection) | Advanced computer vision system for early fire detection | Python, OpenCV, TensorFlow | ✅ Complete |
-| [👤 Facial Attendance System](https://github.com/Jaideep193/FacialAttendanceSystem) | Smart attendance management using facial recognition | Python, OpenCV, Face Recognition | ✅ Complete |
-| [🏠 House Price Prediction](https://github.com/Jaideep193/SCT_ML_1) | Linear regression model for accurate price forecasting | Python, Scikit-learn, Pandas | ✅ Complete |
-| [🎯 Customer Segmentation](https://github.com/Jaideep193/SCT_ML_2) | K-means clustering for customer behavior analysis | Python, Scikit-learn, Matplotlib | ✅ Complete |
-| [🌍 Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI) | Comprehensive air quality index analysis and visualization | Python, Pandas, Seaborn | ✅ Complete |
+<div align="center">
 
-## 📈 GitHub Stats
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 📊 Status | 🔗 Links |
+|------------|----------------|---------------|-----------|----------|
+| 🔥 **Forest Fire Detection** | Advanced computer vision system for early fire detection using deep learning | Python, OpenCV, TensorFlow, CNN | ✅ Complete | [Demo](https://github.com/Jaideep193/ForestFireDetection) |
+| 📊 **Power BI Sales Dashboard** | Interactive business intelligence dashboard with real-time analytics | Power BI, DAX, SQL, Excel | ✅ Complete | [View](https://github.com/Jaideep193/PowerBI-Dashboard) |
+| 👤 **Facial Recognition System** | Smart attendance management using advanced facial recognition | Python, OpenCV, Face Recognition, ML | ✅ Complete | [Demo](https://github.com/Jaideep193/FacialAttendanceSystem) |
+| 🏠 **House Price Predictor** | ML model for accurate real estate price forecasting | Python, Scikit-learn, Pandas, Regression | ✅ Complete | [Model](https://github.com/Jaideep193/SCT_ML_1) |
+| 🎯 **Customer Segmentation** | K-means clustering for business intelligence and customer insights | Python, Scikit-learn, Matplotlib, KMeans | ✅ Complete | [Analysis](https://github.com/Jaideep193/SCT_ML_2) |
+| 🌍 **Air Quality Analytics** | Comprehensive Delhi AQI analysis with interactive visualizations | Python, Pandas, Seaborn, Plotly | ✅ Complete | [Dashboard](https://github.com/Jaideep193/Delhi_AQI) |
 
-![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=radical)
+</div>
 
-## 🎯 Current Focus
-- 🤖 Advanced Machine Learning algorithms
-- 🧠 Deep Learning for Computer Vision
-- 📊 Big Data Analytics
-- ☁️ Cloud-based ML solutions
-- 🚀 MLOps and model deployment
+---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepmc2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideep-m-c-2290702a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-⭐ "Turning data into insights, and insights into impact." ⭐
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep193&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions about data science, machine learning, or any exciting tech projects!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaideep193&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+
+| 🚀 **2025 Objectives** | 📈 **Progress** |
+|------------------------|-----------------|
+| 📊 **Advanced Power BI Certification** | 🟨🟨🟨⬜⬜ 60% |
+| 🤖 **MLOps Implementation** | 🟨🟨⬜⬜⬜ 40% |
+| ☁️ **Cloud AI Solutions** | 🟨🟨🟨⬜⬜ 60% |
+| 🧠 **Deep Learning Mastery** | 🟨🟨🟨🟨⬜ 80% |
+| 📈 **Big Data Analytics** | 🟨🟨⬜⬜⬜ 40% |
+
+</div>
+
+**Current Learning Path:**
+- 📊 Power BI Advanced Features & Custom Visuals
+- 🤖 TensorFlow Extended (TFX) for MLOps
+- ☁️ Azure Machine Learning Studio
+- 🔍 Computer Vision with Transformers
+- 📈 Apache Spark for Big Data
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 **Achievement** | 📅 **Date** | 🎯 **Domain** |
+|-------------------|-------------|---------------|
+| 🔥 **Forest Fire Detection System** | 2024 | Computer Vision |
+| 📊 **Business Intelligence Project** | 2024 | Power BI |
+| 🤖 **ML Model Deployment** | 2024 | Machine Learning |
+| 👥 **Facial Recognition System** | 2024 | AI/CV |
+| 📈 **Data Science Internship** | 2024 | Analytics |
+
+</div>
+
+---
+
+## 📫 Connect & Collaborate
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideepmc2003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideep-m-c-2290702a0/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jaideep193.github.io)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaideep193)
+  
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Transforming Data into Intelligent Solutions" 💡
+  
+  <img src="https://komarev.com/ghpvc/?username=Jaideep193&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **🤝 Open to collaborations in Power BI, Machine Learning, and Data Science projects!**
+  
+  *Let's build the future with data-driven intelligence* 🚀
+  
+</div>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
