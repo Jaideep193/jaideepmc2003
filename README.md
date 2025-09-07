@@ -1,67 +1,86 @@
-<!-- Animated Gradient SVG Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%"/>
-</div>
-
-<!-- Animated Typing Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&lines=Hello+%F0%9F%91%8B+I'm+Jaideep;Full-Stack+Developer+%7C+AI+Engineer;Building+the+Future+with+Code+%26+Intelligence!" alt="Animated Typing SVG" />
-</div>
-
-<!-- Contact and Social Expansion -->
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideep-mahajan) 
-[![GitHub Followers](https://img.shields.io/github/followers/Jaideep193?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jaideep193.github.io/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jaideep.mahajan2003@gmail.com) 
-[![Twitter](https://img.shields.io/badge/-@jaideep193-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jaideep193) 
-[![Instagram](https://img.shields.io/badge/-@jaideep193-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jaideep193)
-</div>
-
-## 📈 GitHub Analytics & Contribution Highlights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep193&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaideep193&theme=react-dark" alt="Activity Graph" />
-</div>
-
-### 🔥 September 2025 Contribution Stats:
-- 📊 **30 commits** across **6 repositories**
-- 🚀 **Primary active repos**: jaideepmc2003, Forest_Fire_Detection, SCT_ML_2
-- 💡 **New features added**: 12
-- 🐛 **Bugs fixed**: 8
-- 📝 **Documentation updates**: 5
-
-### 📅 Yearly Contributions Summary:
-- 🎯 **Total Contributions**: [View Activity Graph](https://github.com/Jaideep193?tab=overview&from=2024-01-01&to=2025-12-31)
-- 📈 **Contribution Graph**: Check out my coding journey above!
-- 🌟 **Most Active Month**: September 2025 with peak productivity
-
-## 🌐 Let's Connect
-
+<!-- Animated Banner -->
 <p align="center">
-  <a href="https://linkedin.com/in/jaideep-mahajan"><img src="https://img.shields.io/badge/-Jaideep%20Mahajan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Jaideep193"><img src="https://img.shields.io/badge/-Jaideep193-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://jaideep193.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="mailto:jaideep.mahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/jaideep193"><img src="https://img.shields.io/badge/-@jaideep193-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/jaideep193"><img src="https://img.shields.io/badge/-@jaideep193-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=0D9FFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Jaideep+Mahajan!;InfoSci.+Engineer+%7C+AI+%26+ML+Dev+%7C+MERN+Fullstack;Welcome+to+my+futuristic+tech+portfolio+🚀" alt="Typing SVG" />
 </p>
 
+<!-- About Me -->
+## 👨‍💻 About Me
+
+- 🧭 **Information Science Engineering** student driven by a passion for **Artificial Intelligence, Machine Learning, Deep Learning**, and **Full-Stack MERN Development**  
+- 🤖 Creating forward-looking solutions: From predictive fire spread models to real-world e-commerce and medical AI  
+- 🛠️ 3+ years of project-based software engineering and open-source contribution  
+- 💡 Continuous learner, technical communicator, and aspiring AI architect  
+
+---
+
+## 🚀 Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,nodejs,react,mongodb,git,github,azure,aws,keras,tensorflow,express,linux,visualstudio" />
 </div>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" width="100%"/>
+---
 
-<div align="center">
-  <h3>✨ "Code is not just my profession, it's my passion!" ✨</h3>
-</div>
+## 🌟 Projects Spotlight
+
+### 1. 🔥 Forest Fire Spread Simulation
+**Type:** AI + Cellular Automata | **Repository:** [Forest_Fire_Detection](https://github.com/Jaideep193/Forest_Fire_Detection)  
+*Predicts and simulates wildfire propagation using deep learning and cellular automata for real-time disaster management.*
+
+**Key Skills:**  
+![Python](https://skillicons.dev/icons?i=python) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![NumPy](https://skillicons.dev/icons?i=numpy)  
+**Tools:** Keras, Scikit-learn, Matplotlib, Pandas  
+**Tech:** Computer Vision, ML Algorithms, Geospatial Data Processing
+
+---
+
+### 2. 🛒 Perfume Shop WebApp (MERN)
+**Type:** Full-Stack E-Commerce | **Repository:** *coming soon*  
+*End-to-end e-commerce application for perfume sales, with modern UI/UX and RESTful APIs.*
+
+**Key Skills:**  
+![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Express](https://skillicons.dev/icons?i=express)  
+**Tools:** Redux, JWT Auth, Stripe API, Docker, GitHub Actions  
+**Tech:** REST API, Responsive Design, Backend Integration, Deployment Automation
+
+---
+
+### 3. 🧠 Brain Tumor Detection (Deep Learning)
+**Type:** Medical AI | **Repository:** *coming soon*  
+*Robust deep neural network for detecting and classifying brain tumors in MRI images.*
+
+**Key Skills:**  
+![Python](https://skillicons.dev/icons?i=python) ![Keras](https://skillicons.dev/icons?i=keras) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
+**Tools:** OpenCV, NumPy, Scikit-learn  
+**Tech:** Biomedical Imaging, Image Segmentation, CNNs, Automation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep193&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaideep193&theme=react-dark" alt="GitHub Activity"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Jaideep193/Jaideep193/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jaideep-mahajan"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/Jaideep193"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="mailto:jaideep.mahajan2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://twitter.com/jaideep193"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://jaideep193.github.io/"><img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img height="30" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" />
+</p>
+
+<p align="center">✨ "Engineering intelligence, crafting code, shaping tomorrow." ✨</p>
