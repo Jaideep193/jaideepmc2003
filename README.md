@@ -7,7 +7,7 @@
 
 ## 📊 Profile Summary
 
-🚀 **Active Open-Source Contributor** with **100+ annual GitHub contributions** committed to advancing **Machine Learning**, **AI**, and **Full-Stack Web Development**  
+🚀 Actively learning **Machine Learning**, **AI**, and **Full-Stack Web Development**  
 💡 Passionate about building **intelligent systems** that solve real-world problems through innovative **ML/AI solutions** and **scalable web applications**  
 🎯 **Impact-Driven Developer** with consistent monthly commits, always open to collaborations, and aiming to build impactful ML and cloud-driven applications
 
