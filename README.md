@@ -91,9 +91,7 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 *For more projects, see [all repositories](https://github.com/Jaideep193?tab=repositories)*
 
 ---
-## 🏅 Certifications
-
-## 🏅 Certifications
+## 🏅 Certifications <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&width=330&color=0052FF&center=true&vCenter=true&lines=Verified+Credentials+Below!" alt="Certification Animation" style="vertical-align: middle;" />
 
 **Microsoft Certified: Power Platform Fundamentals**  
 [Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/2B8526E6FA0DBCDF?sharingId=6788F3C5B1756A98)  
@@ -101,6 +99,10 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 
 **Microsoft Certified: Azure Fundamentals**  
 [Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/29E89F813C34FCC4?sharingId=6788F3C5B1756A98)
+
+**Microsoft Certified: Azure Data Fundamentals**  
+[Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/A215EF73E5076D0E?sharingId=6788F3C5B1756A98)
+
 
 
 ## 🤝 Connect With Me
