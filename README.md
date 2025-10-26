@@ -102,8 +102,11 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 **Microsoft Certified: Azure Data Fundamentals**  
 [Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/A215EF73E5076D0E?sharingId=6788F3C5B1756A98)
 
-[![Another Microsoft Cert](https://img.shields.io/badge/Microsoft%20Certified-Your%20Second%20Cert-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/29E89F813C34FCC4?sharingId=6788F3C5B1756A98)
+[![Microsoft Certified: Power Platform Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/2B8526E6FA0DBCDF?sharingId=6788F3C5B1756A98)
 
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/29E89F813C34FCC4?sharingId=6788F3C5B1756A98)
+
+[![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/A215EF73E5076D0E?sharingId=6788F3C5B1756A98)
 
 ## 🤝 Connect With Me
 
