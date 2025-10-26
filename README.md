@@ -93,8 +93,15 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 ---
 ## 🏅 Certifications
 
+## 🏅 Certifications
+
 **Microsoft Certified: Power Platform Fundamentals**  
-[Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/2B8526E6FA0DBCDF?sharingId=6788F3C5B1756A98)
+[Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/2B8526E6FA0DBCDF?sharingId=6788F3C5B1756A98)  
+[Download Certification PDF](./Credentials-jaideepmc-3064-_-Microsoft-Learnpower.pdf)
+
+**Microsoft Certified: Azure Fundamentals**  
+[Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/29E89F813C34FCC4?sharingId=6788F3C5B1756A98)
+
 
 ## 🤝 Connect With Me
 
