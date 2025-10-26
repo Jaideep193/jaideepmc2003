@@ -91,6 +91,11 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 *For more projects, see [all repositories](https://github.com/Jaideep193?tab=repositories)*
 
 ---
+## 🏅 Certifications
+
+**Microsoft Certified: Power Platform Fundamentals**  
+[Verify my credential](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/2B8526E6FA0DBCDF?sharingId=6788F3C5B1756A98)
+
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)  
