@@ -33,46 +33,35 @@ Open to opportunities in: AI/ML Engineering • Full-Stack Development • Cloud
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep193&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🤖 [AI-Powered Hiring System](https://github.com/Jaideep193/AI-Project)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+#### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
+Builds and evaluates regression models to predict house prices using exploratory data analysis and feature engineering.  
+`Python` `Scikit-learn` `Linear Regression` `Data Science`
 
-Advanced AI-driven recruitment platform integrating NLP, facial recognition, and predictive analytics. Features include automated resume screening, sentiment analysis, and bias detection to streamline and improve hiring processes.
+#### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
+Automated attendance system using real-time face recognition, camera integration, and attendance logs.  
+`Python` `OpenCV` `Machine Learning` `Computer Vision`
 
----
+#### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
+Early warning model to detect and predict forest fires with machine learning, satellite imagery, and environmental data.  
+`Python` `Data Science` `Classification` `Remote Sensing`
 
-### 🌤️ [Azure Weather Insights Dashboard](https://github.com/Jaideep193/Azure-Weather-Dashboard)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6B6B?style=for-the-badge&logo=powerbi&logoColor=white) ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-Real-time weather monitoring application leveraging Azure services (App Service, Functions, Storage) for scalable data processing and visualization. Demonstrates cloud-native architecture and API integration expertise.
-
----
-
-### ☕ [Java-Mastery-Hub](https://github.com/Jaideep193/Java-Mastery-Hub)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=codingame&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-4ECDC4?style=for-the-badge&logo=java&logoColor=white)
-
-Comprehensive Java programming repository covering core concepts, object-oriented programming principles, and algorithm implementations. Includes data structures, design patterns, and best coding practices for enterprise development.
+#### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
+End-to-end data analysis and visualization project focusing on Air Quality Index (AQI) trends and forecasting in Delhi.  
+`Python` `Pandas` `Time Series` `Data Visualization`
 
 ---
 
-### 🏆 **Hackathon**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Innovation](https://img.shields.io/badge/Innovation-FF6B6B?style=for-the-badge&logo=lightbulb&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge&logo=target&logoColor=white) ![Team Project](https://img.shields.io/badge/Team_Project-FFB74D?style=for-the-badge&logo=users&logoColor=white)
+**For more, visit my [full GitHub portfolio](https://github.com/Jaideep193?tab=repositories).**
 
-Innovative hackathon solution demonstrating rapid prototyping and collaborative problem-solving skills. Showcases ability to deliver functional solutions under time constraints with creative technical approaches.
-
----
-
-*For more projects, see [all repositories](https://github.com/Jaideep193?tab=repositories)*
-
----
 
 ## 🏅 Certifications <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&width=330&color=0052FF&center=true&vCenter=true&lines=Verified+Credentials+Below!" alt="Certification Animation" style="vertical-align: middle;" />
 
