@@ -84,6 +84,7 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 
 [![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20Certified-Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88552EA17855BFDA1C2E1C0B4F66D9EAECDEF161578F5F97793CF231D280360C)
 
+[![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20Certified-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E6E7536E5B4BC66E997ED7250699B2D7F78842F92A8E5FDF1FD3639CDDE01782)
 
 
 
