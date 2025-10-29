@@ -42,25 +42,28 @@ Open to opportunities in: AI/ML Engineering • Full-Stack Development • Cloud
 
 ### 🚀 Featured Projects
 
-#### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
+### 🚀 Featured Projects
+
+#### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)  
 Builds and evaluates regression models to predict house prices using exploratory data analysis and feature engineering.  
-`Python` `Scikit-learn` `Linear Regression` `Data Science`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=20B2AA&center=true&vCenter=true&lines=Python+%7C+Scikit-learn+%7C+Linear+Regression+%7C+Data+Science)](https://github.com/Jaideep193/SCT_ML_1)
 
-#### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
+#### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)  
 Automated attendance system using real-time face recognition, camera integration, and attendance logs.  
-`Python` `OpenCV` `Machine Learning` `Computer Vision`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=4682B4&center=true&vCenter=true&lines=Python+%7C+OpenCV+%7C+Machine+Learning+%7C+Computer+Vision)](https://github.com/Jaideep193/Facial_Attendance_System)
 
-#### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
+#### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)  
 Early warning model to detect and predict forest fires with machine learning, satellite imagery, and environmental data.  
-`Python` `Data Science` `Classification` `Remote Sensing`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=DC143C&center=true&vCenter=true&lines=Python+%7C+Data+Science+%7C+Classification+%7C+Remote+Sensing)](https://github.com/Jaideep193/Forest_Fire_Detection)
 
-#### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
+#### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)  
 End-to-end data analysis and visualization project focusing on Air Quality Index (AQI) trends and forecasting in Delhi.  
-`Python` `Pandas` `Time Series` `Data Visualization`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=6495ED&center=true&vCenter=true&lines=Python+%7C+Pandas+%7C+Time+Series+%7C+Data+Visualization)](https://github.com/Jaideep193/Delhi_AQI)
 
 ---
 
 **For more, visit my [full GitHub portfolio](https://github.com/Jaideep193?tab=repositories).**
+
 
 
 ## 🏅 Certifications <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&width=330&color=0052FF&center=true&vCenter=true&lines=Verified+Credentials+Below!" alt="Certification Animation" style="vertical-align: middle;" />
