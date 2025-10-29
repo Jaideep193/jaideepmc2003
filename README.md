@@ -82,7 +82,7 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 
 [![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/A215EF73E5076D0E?sharingId=6788F3C5B1756A98)
 
-[![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025%20Certified%20Data%20Science%20Professional-F80000?logo=oracle&logoColor=white&style=for-the-badge)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88552EA17855BFDA1C2E1C0B4F66D9EAECDEF161578F5F97793CF231D280360C)
+[![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20Certified-%20Data Science%20Professional-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88552EA17855BFDA1C2E1C0B4F66D9EAECDEF161578F5F97793CF231D280360C)
 
 
 
