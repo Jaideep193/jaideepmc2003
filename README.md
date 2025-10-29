@@ -29,56 +29,46 @@ Open to opportunities in: AI/ML Engineering • Full-Stack Development • Cloud
 - Databases: 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaideep193&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  
-</p>
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
-## 🚀 Featured Projects
-
-### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
+#### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 [![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4E9A06?style=for-the-badge)]()
 [![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=dataiku&logoColor=white)]()
 
-Builds an accurate regression model for house prices using feature engineering, data visualization, and model evaluation.
+Comprehensive machine learning project predicting house prices from multiple features with rigorous EDA, outlier detection, and hyperparameter tuning. Implements linear regression and documents performance metrics (MAE, RMSE) in Jupyter notebooks. Includes visual analytics (scatter plots, correlation matrices) and notebook-based workflow for reproducibility.
 
 ---
 
-### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
+#### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6100?style=for-the-badge&logo=fastapi&logoColor=white)]()
 [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-272b3a?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
-Automated, real-time attendance using face recognition and camera streams.
+Real-time attendance logging using face recognition and camera feeds. Detects and identifies individuals from live video, tagging attendance to a database with accuracy checks. Features robust face detection pipeline, automated daily CSV/Excel log export, and user-friendly UI logic suited for school or workplace deployment.
 
 ---
 
-### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
+#### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=dataiku&logoColor=white)]()
 [![Classification](https://img.shields.io/badge/Classification-6A1B9A?style=for-the-badge)]()
 [![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-3DDC97?style=for-the-badge)]()
 
-Early detection of forest fires through ML models using satellite and environmental data.
+AI-based solution for early detection of forest fires combining satellite image processing and environmental data. Uses supervised learning techniques for classification and risk prediction, benchmarks model accuracy and confusion matrix, and visualizes geographic hotspots. Designed to integrate with real-time alert systems for proactive disaster management.
 
 ---
 
-### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
+#### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![Time Series](https://img.shields.io/badge/Time%20Series-1976D2?style=for-the-badge)]()
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8E24AA?style=for-the-badge&logo=tableau&logoColor=white)]()
 
-Full-cycle data analysis and forecasting of Air Quality Index trends in Delhi.
+End-to-end project analyzing and forecasting Delhi’s air quality data. Aggregates multi-source AQI datasets, performs time series decomposition, and develops trend/cycle forecasting models. Generates interpretable interactive charts and heatmaps for data-driven urban environment insights, supporting public health reporting.
 
 ---
 
