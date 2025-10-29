@@ -1,7 +1,6 @@
 # Hi, I'm Jaideep M C 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Information+Science+Engineering+Student;Future-ready+Cloud+%26+AI+Enthusiast;Building+Innovative+Tech+Solutions;Passionate+About+ML+%26+Cloud)](https://git.io/typing-svg)
-![GitHub Snake](https://github.com/Jaideep193/jaideepmc2003/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏄‍♂️ About Me
 
