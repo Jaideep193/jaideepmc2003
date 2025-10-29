@@ -43,43 +43,46 @@ Open to opportunities in: AI/ML Engineering • Full-Stack Development • Cloud
 ## 🚀 Featured Projects
 
 ### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/ebcf06af-a6b1-447f-ad2b-8df5a664d85b.png" width="340" alt="House Price Prediction Project"/>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4E9A06?style=for-the-badge)]()
+[![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=dataiku&logoColor=white)]()
 
 Builds an accurate regression model for house prices using feature engineering, data visualization, and model evaluation.
-- **Tech stack:** Python, Pandas, Scikit-learn, Matplotlib
-- **Highlights:** Data preprocessing, advanced visualization, regression metrics, notebook-driven exploration
 
 ---
 
 ### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/df0c1407-122a-44dc-b22f-4754e3b07509.png" width="340" alt="Facial Attendance System Project"/>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6100?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-272b3a?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
 Automated, real-time attendance using face recognition and camera streams.
-- **Tech stack:** Python, OpenCV, Machine Learning, SQLite/CSV
-- **Highlights:** Real-time facial detection, log management, fully automated process, practical deployment
 
 ---
 
 ### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e59c542b-318d-4c5d-8bf6-0b99a1e11f75.png" width="340" alt="Forest Fire Detection Project"/>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=dataiku&logoColor=white)]()
+[![Classification](https://img.shields.io/badge/Classification-6A1B9A?style=for-the-badge)]()
+[![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-3DDC97?style=for-the-badge)]()
 
 Early detection of forest fires through ML models using satellite and environmental data.
-- **Tech stack:** Python, Data Science, Classification, Remote Sensing
-- **Highlights:** Fire risk prediction, data fusion (satellite + climate), accuracy/cost tradeoffs, model explainability
 
 ---
 
 ### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
-<img src="YOUR_IMAGE_LINK_HERE" width="340" alt="Delhi AQI Analysis Project"/>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Time Series](https://img.shields.io/badge/Time%20Series-1976D2?style=for-the-badge)]()
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8E24AA?style=for-the-badge&logo=tableau&logoColor=white)]()
 
 Full-cycle data analysis and forecasting of Air Quality Index trends in Delhi.
-- **Tech stack:** Python, Pandas, Time Series, Data Visualization
-- **Highlights:** Exploratory analysis, trend forecasting, interactive visualizations, actionable insights
 
 ---
 
 **For more, visit my [full GitHub portfolio](https://github.com/Jaideep193?tab=repositories).**
-
 
 
 
