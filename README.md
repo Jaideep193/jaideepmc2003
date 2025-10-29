@@ -40,29 +40,46 @@ Open to opportunities in: AI/ML Engineering • Full-Stack Development • Cloud
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep193&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
+### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/ebcf06af-a6b1-447f-ad2b-8df5a664d85b.png" width="340" alt="House Price Prediction Project"/>
 
-#### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)  
-Builds and evaluates regression models to predict house prices using exploratory data analysis and feature engineering.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=20B2AA&center=true&vCenter=true&lines=Python+%7C+Scikit-learn+%7C+Linear+Regression+%7C+Data+Science)](https://github.com/Jaideep193/SCT_ML_1)
+Builds an accurate regression model for house prices using feature engineering, data visualization, and model evaluation.
+- **Tech stack:** Python, Pandas, Scikit-learn, Matplotlib
+- **Highlights:** Data preprocessing, advanced visualization, regression metrics, notebook-driven exploration
 
-#### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)  
-Automated attendance system using real-time face recognition, camera integration, and attendance logs.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=4682B4&center=true&vCenter=true&lines=Python+%7C+OpenCV+%7C+Machine+Learning+%7C+Computer+Vision)](https://github.com/Jaideep193/Facial_Attendance_System)
+---
 
-#### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)  
-Early warning model to detect and predict forest fires with machine learning, satellite imagery, and environmental data.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=DC143C&center=true&vCenter=true&lines=Python+%7C+Data+Science+%7C+Classification+%7C+Remote+Sensing)](https://github.com/Jaideep193/Forest_Fire_Detection)
+### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/df0c1407-122a-44dc-b22f-4754e3b07509.png" width="340" alt="Facial Attendance System Project"/>
 
-#### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)  
-End-to-end data analysis and visualization project focusing on Air Quality Index (AQI) trends and forecasting in Delhi.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=2500&pause=1100&width=380&color=6495ED&center=true&vCenter=true&lines=Python+%7C+Pandas+%7C+Time+Series+%7C+Data+Visualization)](https://github.com/Jaideep193/Delhi_AQI)
+Automated, real-time attendance using face recognition and camera streams.
+- **Tech stack:** Python, OpenCV, Machine Learning, SQLite/CSV
+- **Highlights:** Real-time facial detection, log management, fully automated process, practical deployment
+
+---
+
+### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e59c542b-318d-4c5d-8bf6-0b99a1e11f75.png" width="340" alt="Forest Fire Detection Project"/>
+
+Early detection of forest fires through ML models using satellite and environmental data.
+- **Tech stack:** Python, Data Science, Classification, Remote Sensing
+- **Highlights:** Fire risk prediction, data fusion (satellite + climate), accuracy/cost tradeoffs, model explainability
+
+---
+
+### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
+<img src="YOUR_IMAGE_LINK_HERE" width="340" alt="Delhi AQI Analysis Project"/>
+
+Full-cycle data analysis and forecasting of Air Quality Index trends in Delhi.
+- **Tech stack:** Python, Pandas, Time Series, Data Visualization
+- **Highlights:** Exploratory analysis, trend forecasting, interactive visualizations, actionable insights
 
 ---
 
 **For more, visit my [full GitHub portfolio](https://github.com/Jaideep193?tab=repositories).**
+
 
 
 
