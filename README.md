@@ -30,9 +30,9 @@ Open to opportunities in: AI/ML Engineering • Full-Stack Development • Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
+### 🏡 [Linear Regression: House Price Prediction](https://github.com/Jaideep193/SCT_ML_1)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 [![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4E9A06?style=for-the-badge)]()
@@ -42,7 +42,7 @@ Comprehensive machine learning project predicting house prices from multiple fea
 
 ---
 
-#### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
+### 🧑‍💼 [Facial Attendance System](https://github.com/Jaideep193/Facial_Attendance_System)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6100?style=for-the-badge&logo=fastapi&logoColor=white)]()
@@ -52,7 +52,7 @@ Real-time attendance logging using face recognition and camera feeds. Detects an
 
 ---
 
-#### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
+### 🔥 [Forest Fire Detection](https://github.com/Jaideep193/Forest_Fire_Detection)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=dataiku&logoColor=white)]()
 [![Classification](https://img.shields.io/badge/Classification-6A1B9A?style=for-the-badge)]()
@@ -62,7 +62,7 @@ AI-based solution for early detection of forest fires combining satellite image 
 
 ---
 
-#### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
+### 🏙️ [Delhi AQI Analysis](https://github.com/Jaideep193/Delhi_AQI)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![Time Series](https://img.shields.io/badge/Time%20Series-1976D2?style=for-the-badge)]()
