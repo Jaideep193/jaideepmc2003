@@ -82,7 +82,8 @@ Innovative hackathon solution demonstrating rapid prototyping and collaborative 
 
 [![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/A215EF73E5076D0E?sharingId=6788F3C5B1756A98)
 
-[Oracle Cloud Infrastructure 2025 Certified Data Science Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88552EA17855BFDA1C2E1C0B4F66D9EAECDEF161578F5F97793CF231D280360C)
+[![Oracle Cloud Infrastructure 2025 Certified Data Science Professional](https://camo.githubusercontent.com/d43893b490a9c31d0dfea6a5a2d6347c323d3c97e8109ff8d724946b1399bb81/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4d6f6e74736572726174267765696768743d3530302673697a653d3232266475726174696f6e3d333030302670617573653d313030302677696474683d33333026636f6c6f723d3030353246462663656e7465723d74727565267643656e7465723d74727565266c696e65733d56657269666965642b4f7261636c652b43492b323032352b446174612b536369656e63652b50726f66657373696f6e616c21)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=88552EA17855BFDA1C2E1C0B4F66D9EAECDEF161578F5F97793CF231D280360C)
+
 
 ## 🤝 Connect With Me
 
