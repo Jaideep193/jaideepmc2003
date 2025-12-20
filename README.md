@@ -88,7 +88,7 @@ End-to-end project analyzing and forecasting Delhi’s air quality data. Aggrega
 
 [![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20Certified-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E6E7536E5B4BC66E997ED7250699B2D7F78842F92A8E5FDF1FD3639CDDE01782)
 
-[![NVIDIA Certified Associate: Generative AI And LLMs ](https://img.shields.io/badge/Nvidia%20Certified-%20Generative%AI%And%LLMs-0089D6?style=for-the-badge&logo=Nvidia&logoColor=white)](https://www.credly.com/badges/2081a2fc-91d3-4edb-9035-3bbf67da7eef/linked_in_profile)
+[![NVIDIA Certified Associate: Generative AI And LLMs ](https://img.shields.io/badge/Nvidia%20Certified-%20GenerativeAI%AndLLMs-0089D6?style=for-the-badge&logo=Nvidia&logoColor=white)](https://www.credly.com/badges/2081a2fc-91d3-4edb-9035-3bbf67da7eef/linked_in_profile)
 
 
 
