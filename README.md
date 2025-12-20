@@ -78,6 +78,8 @@ End-to-end project analyzing and forecasting Delhi’s air quality data. Aggrega
 
 ## 🏅 Certifications <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&width=330&color=0052FF&center=true&vCenter=true&lines=Verified+Credentials+Below!" alt="Certification Animation" style="vertical-align: middle;" />
 
+[![NVIDIA Certified Associate: Generative AI & LLMs](https://img.shields.io/badge/NVIDIA%20Certified%20Associate-Generative%20AI%20%26%20LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/badges/2081a2fc-91d3-4edb-9035-3bbf67da7eef/linked_in_profile)
+
 [![Microsoft Certified: Power Platform Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Power%20Platform%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/2B8526E6FA0DBCDF?sharingId=6788F3C5B1756A98)
 
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JaideepMC-3064/29E89F813C34FCC4?sharingId=6788F3C5B1756A98)
@@ -88,7 +90,6 @@ End-to-end project analyzing and forecasting Delhi’s air quality data. Aggrega
 
 [![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20Certified-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E6E7536E5B4BC66E997ED7250699B2D7F78842F92A8E5FDF1FD3639CDDE01782)
 
-[![NVIDIA Certified Associate: Generative AI & LLMs](https://img.shields.io/badge/NVIDIA%20Certified-Generative%20AI%20%26%20LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/badges/2081a2fc-91d3-4edb-9035-3bbf67da7eef/linked_in_profile)
 
 
 
