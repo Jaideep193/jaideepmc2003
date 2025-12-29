@@ -96,6 +96,33 @@ End-to-end project analyzing and forecasting Delhi’s air quality data. Aggrega
 
 
 
+## 🎖️ Certificates & Accomplishments
+
+### Certifications Earned
+- **NVIDIA Certified Associate: Generative AI & LLMs** - Demonstrated expertise in leveraging large language models and generative AI architectures for real-world applications
+- **Microsoft Certified: Power Platform Fundamentals** - Proficient in Power Apps, Power Automate, and Power BI for business solutions
+- **Microsoft Certified: Azure Fundamentals** - Foundation-level knowledge of Azure cloud services and infrastructure
+- **Microsoft Certified: Azure Data Fundamentals** - Expertise in data concepts, data analytics, and BI fundamentals on Azure
+- **Oracle Certified: Data Science Professional** - Demonstrated knowledge of ML algorithms, data preprocessing, and model evaluation
+- **Oracle Certified: Generative AI Professional** - Specialized skills in implementing generative AI solutions on Oracle Cloud
+
+### Key Accomplishments
+✅ **Machine Learning Projects**: Developed 4+ production-grade ML models with >85% accuracy in classification tasks
+✅ **Real-Time Computer Vision**: Built facial recognition and forest fire detection systems using OpenCV and deep learning
+✅ **Cloud Infrastructure**: Architected and deployed cloud solutions on Azure, GCP, and Oracle Cloud platforms
+✅ **Time Series Analysis**: Implemented advanced forecasting models for air quality and environmental data
+✅ **Full-Stack Development**: Created end-to-end web applications using React, Node.js, MongoDB, and modern DevOps practices
+✅ **Code Contributions**: Consistent GitHub activity with 100+ commits demonstrating continuous learning and improvement
+✅ **Technical Documentation**: Maintained comprehensive README files and project documentation for portfolio projects
+
+### Skill Badges & Recognitions
+- Google Cloud Skills Boost: Advanced practitioner with multiple cloud certifications
+- Proficient in Data Science, Machine Learning, Cloud Computing, and Full-Stack Development
+- Strong expertise in Python, JavaScript, and modern development tools
+
+---
+
+
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaideep193)  *See my full portfolio and contributions on GitHub*
